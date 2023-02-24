@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body{
+     font-family: 'Montserrat', sans-serif;
+    size: a3;
+}
+header{
+    background-color:#efefef;
+}
+.heading{
+    color: green;
+}
+main{
+    background-color: #efefef;
+}
+   .prachi{
+    background-color: aquamarine;
+   }
